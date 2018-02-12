@@ -1802,3 +1802,35 @@ traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
 28  * * *
 29  * * *
 30  * * *
+++++++
+traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
+ 1  bthub.home (192.168.1.254)  3.375 ms  12.590 ms  12.667 ms
+ 2  217.32.142.98 (217.32.142.98)  53.545 ms  56.284 ms  56.328 ms
+ 3  217.32.142.142 (217.32.142.142)  52.941 ms  53.019 ms  54.832 ms
+ 4  212.140.206.10 (212.140.206.10)  56.036 ms  56.479 ms  56.516 ms
+ 5  213.120.162.67 (213.120.162.67)  56.989 ms  57.015 ms  65.296 ms
+ 6  31.55.165.107 (31.55.165.107)  65.536 ms  56.544 ms  56.527 ms
+ 7  acc1-10GigE-4-0-3.mr.21cn-ipp.bt.net (109.159.250.110)  64.800 ms acc1-10GigE-2-2-0.mr.21cn-ipp.bt.net (109.159.250.90)  153.101 ms acc1-10GigE-3-3-0.mr.21cn-ipp.bt.net (109.159.250.106)  148.435 ms
+ 8  109.159.250.148 (109.159.250.148)  172.091 ms core2-te0-13-0-15.ilford.ukcore.bt.net (109.159.250.36)  75.000 ms core1-te0-13-0-16.ealing.ukcore.bt.net (109.159.250.40)  109.628 ms
+ 9  peer1-xe11-0-0.telehouse.ukcore.bt.net (109.159.254.124)  120.881 ms peer1-xe2-0-0.telehouse.ukcore.bt.net (109.159.254.100)  119.762 ms core2-pos9-2.bletchley.ukcore.bt.net (194.72.31.157)  120.839 ms
+10  te2-3.sov-edge1.uk.timico.net (195.66.224.111)  120.883 ms  120.924 ms  120.973 ms
+11  xe-1-0-0-1151.sov-core1.uk.timico.net (62.121.5.162)  137.917 ms  138.868 ms  138.920 ms
+12  xe-1-1-0.tch-core1.uk.timico.net (62.121.4.107)  142.327 ms  139.299 ms  154.838 ms
+13  xe-0-0-0.tch-core2.uk.timico.net (62.121.4.89)  109.954 ms  110.007 ms  107.027 ms
+14  xe-2-0-0.fhm-core1.uk.timico.net (62.121.5.175)  107.098 ms  107.277 ms  107.045 ms
+15  delme1.delme.newnet.co.uk (81.3.80.1)  107.374 ms  107.402 ms  107.436 ms
+16  dp1-10g-e.serverhouse.co.uk (5.2.22.226)  107.488 ms  107.542 ms  107.867 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

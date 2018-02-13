@@ -3700,3 +3700,35 @@ traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
 28  * * *
 29  * * *
 30  * * *
+++++++
+traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
+ 1  bthub.home (192.168.1.254)  4.569 ms  4.797 ms  4.866 ms
+ 2  217.32.142.98 (217.32.142.98)  1501.322 ms  1508.009 ms  1508.479 ms
+ 3  217.32.142.142 (217.32.142.142)  1856.828 ms  1858.552 ms  1860.450 ms
+ 4  212.140.206.2 (212.140.206.2)  1862.364 ms  1866.231 ms  1869.759 ms
+ 5  213.120.162.65 (213.120.162.65)  1906.824 ms  1910.559 ms  1916.144 ms
+ 6  31.55.165.107 (31.55.165.107)  1916.851 ms  1909.149 ms  1910.894 ms
+ 7  acc1-10GigE-9-2-0.mr.21cn-ipp.bt.net (109.159.250.100)  1913.479 ms acc1-10GigE-4-1-2.mr.21cn-ipp.bt.net (109.159.250.112)  2092.090 ms acc1-10GigE-7-2-0.mr.21cn-ipp.bt.net (109.159.250.96)  2331.278 ms
+ 8  core2-te0-4-0-0.ealing.ukcore.bt.net (109.159.250.131)  2335.041 ms core2-te0-4-0-0.ilford.ukcore.bt.net (109.159.250.3)  2338.512 ms core2-te0-3-0-14.ilford.ukcore.bt.net (109.159.250.30)  2342.001 ms
+ 9  peer1-xe8-1-1.telehouse.ukcore.bt.net (109.159.254.191)  2343.960 ms peer1-xe3-0-0.telehouse.ukcore.bt.net (109.159.254.215)  2413.646 ms peer1-xe11-1-0.telehouse.ukcore.bt.net (109.159.254.112)  2415.421 ms
+10  te2-3.sov-edge1.uk.timico.net (195.66.224.111)  2419.245 ms  2422.991 ms  2424.997 ms
+11  xe-1-0-0-1151.sov-core1.uk.timico.net (62.121.5.162)  2428.645 ms  2434.414 ms  2438.187 ms
+12  xe-1-1-0.tch-core1.uk.timico.net (62.121.4.107)  2442.013 ms  2445.864 ms  2288.103 ms
+13  xe-0-0-0.tch-core2.uk.timico.net (62.121.4.89)  2640.051 ms  1317.285 ms  1317.749 ms
+14  xe-2-0-0.fhm-core1.uk.timico.net (62.121.5.175)  1320.864 ms  1318.843 ms  1325.935 ms
+15  delme1.delme.newnet.co.uk (81.3.80.1)  1327.867 ms  1329.826 ms  1331.699 ms
+16  dp1-10g-e.serverhouse.co.uk (5.2.22.226)  1333.456 ms  1335.561 ms  1337.325 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

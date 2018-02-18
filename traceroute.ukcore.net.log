@@ -8416,3 +8416,4 @@ traceroute to ukcore.net (1.1.1.1), 30 hops max, 60 byte packets
 ++++++
 traceroute to ukcore.net (1.1.1.1), 30 hops max, 60 byte packets
  1  bthub.home (192.168.1.254)  3.097 ms !N  10.834 ms !N  10.865 ms !N
+++++++

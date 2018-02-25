@@ -10070,4 +10070,35 @@ traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
  7  acc1-10GigE-4-0-2.mr.21cn-ipp.bt.net (109.159.250.108)  46.927 ms acc1-10GigE-1-2-0.mr.21cn-ipp.bt.net (109.159.250.70)  32.995 ms acc1-10GigE-7-3-0.mr.21cn-ipp.bt.net (109.159.250.98)  32.294 ms
  8  core2-te0-13-0-0.ealing.ukcore.bt.net (109.159.250.139)  84.773 ms core1-te0-3-0-5.ealing.ukcore.bt.net (109.159.250.13)  84.983 ms core2-te0-13-0-0.ilford.ukcore.bt.net (109.159.250.11)  84.788 ms
  9  peer6-te0-0-0-11.telehouse.ukcore.bt.net (109.159.254.116)  84.997 ms peer6-te0-10-0-10.telehouse.ukcore.bt.net (109.159.254.167)  85.204 ms peer6-te0-0-0-16.telehouse.ukcore.bt.net (109.159.254.128)  85.013 ms
-10  t2c3-et-3-1-0-0.uk-lon1.eu.bt.net (166.49
+10  t2c3-et-3-1-0-0.uk-lon1.eu.bt.net (166.49++++++
+traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
+ 1  bthub.home (192.168.1.254)  3.755 ms  4.056 ms  4.210 ms
+ 2  217.32.142.98 (217.32.142.98)  200.075 ms  200.154 ms  202.295 ms
+ 3  217.32.142.126 (217.32.142.126)  205.397 ms  208.136 ms  210.939 ms
+ 4  212.140.206.18 (212.140.206.18)  215.426 ms  219.525 ms  229.556 ms
+ 5  213.120.162.67 (213.120.162.67)  229.885 ms  232.808 ms  237.032 ms
+ 6  31.55.165.107 (31.55.165.107)  241.870 ms  237.378 ms  241.524 ms
+ 7  acc1-10GigE-2-3-0.mr.21cn-ipp.bt.net (109.159.250.94)  244.434 ms 109.159.250.54 (109.159.250.54)  152.145 ms acc1-10GigE-2-2-0.mr.21cn-ipp.bt.net (109.159.250.90)  196.986 ms
+ 8  109.159.255.219 (109.159.255.219)  198.705 ms core1-te0-13-0-16.ealing.ukcore.bt.net (109.159.250.40)  202.309 ms core2-te0-13-0-0.ealing.ukcore.bt.net (109.159.250.139)  206.655 ms
+ 9  peer6-te0-10-0-7.telehouse.ukcore.bt.net (62.172.102.21)  215.860 ms peer6-te0-9-0-23.telehouse.ukcore.bt.net (109.159.255.99)  225.854 ms peer6-te0-9-0-5.telehouse.ukcore.bt.net (109.159.255.107)  226.231 ms
+10  t2c3-et-7-1-0-0.uk-lon1.eu.bt.net (166.49.211.228)  227.470 ms t2c3-et-7-3-0-0.uk-lon1.eu.bt.net (166.49.211.230)  230.328 ms  233.110 ms
+11  hu0-6-0-4.ccr22.lon01.atlas.cogentco.com (130.117.14.65)  237.535 ms  241.936 ms  246.513 ms
+12  149.6.184.210 (149.6.184.210)  250.837 ms  255.105 ms  195.535 ms
+13  185.65.102.145 (185.65.102.145)  195.624 ms  196.625 ms  200.924 ms
+14  wg3-10g-e.serverhouse.co.uk (5.2.22.235)  204.116 ms  193.867 ms  193.990 ms
+15  wg3-10g-e.serverhouse.co.uk (5.2.22.235)  196.679 ms  199.355 ms  202.171 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

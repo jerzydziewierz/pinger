@@ -14905,3 +14905,35 @@ traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
 28  * * *
 29  * * *
 30  * * *
+++++++
+traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
+ 1  bthub.home (192.168.1.254)  2.368 ms  4.592 ms  4.646 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * acc1-10GigE-7-2-0.mr.21cn-ipp.bt.net (109.159.250.96)  4371.353 ms 109.159.250.58 (109.159.250.58)  4371.458 ms
+ 8  core2-te0-0-0-16.ealing.ukcore.bt.net (109.159.250.156)  4375.606 ms core1-te0-13-0-14.ealing.ukcore.bt.net (109.159.250.32)  4379.962 ms 109.159.252.217 (109.159.252.217)  4387.446 ms
+ 9  peer1-xe0-1-0.telehouse.ukcore.bt.net (109.159.254.132)  4382.837 ms peer1-xe3-2-1.telehouse.ukcore.bt.net (109.159.254.209)  4399.171 ms  4402.253 ms
+10  te2-3.sov-edge1.uk.timico.net (195.66.224.111)  4391.726 ms  4396.181 ms  4406.547 ms
+11  xe-1-0-0-1151.sov-core1.uk.timico.net (62.121.5.162)  4418.616 ms  4412.571 ms  4424.495 ms
+12  xe-1-1-0.tch-core1.uk.timico.net (62.121.4.107)  4430.278 ms  4439.267 ms  5449.895 ms
+13  xe-0-0-0.tch-core2.uk.timico.net (62.121.4.89)  6243.911 ms * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

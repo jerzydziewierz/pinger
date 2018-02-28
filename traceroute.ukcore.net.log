@@ -14969,3 +14969,35 @@ traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
 28  * * *
 29  * * *
 30  * * *
+++++++
+traceroute to ukcore.net (195.49.144.212), 30 hops max, 60 byte packets
+ 1  bthub.home (192.168.1.254)  7.526 ms  8.102 ms  8.166 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * acc1-10GigE-4-1-2.mr.21cn-ipp.bt.net (109.159.250.112)  3646.459 ms acc1-10GigE-3-2-0.mr.21cn-ipp.bt.net (109.159.250.104)  3606.389 ms
+ 8  109.159.255.155 (109.159.255.155)  3624.206 ms core1-te0-13-0-14.ealing.ukcore.bt.net (109.159.250.32)  3619.803 ms core2-te0-4-0-0.ealing.ukcore.bt.net (109.159.250.131)  3628.766 ms
+ 9  peer1-xe11-0-0.telehouse.ukcore.bt.net (109.159.254.124)  3631.750 ms peer1-xe3-2-1.telehouse.ukcore.bt.net (109.159.254.209)  3634.584 ms  3643.038 ms
+10  te2-3.sov-edge1.uk.timico.net (195.66.224.111)  3643.466 ms  3649.526 ms  3656.769 ms
+11  xe-1-0-0-1151.sov-core1.uk.timico.net (62.121.5.162)  3662.966 ms  3668.704 ms  3674.567 ms
+12  xe-1-1-0.tch-core1.uk.timico.net (62.121.4.107)  3680.630 ms  3686.562 ms  4999.556 ms
+13  xe-0-0-0.tch-core2.uk.timico.net (62.121.4.89)  5079.017 ms * *
+14  * * *
+15  * delme1.delme.newnet.co.uk (81.3.80.1)  5308.241 ms *
+16  dp1-10g-e.serverhouse.co.uk (5.2.22.226)  5415.925 ms * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
